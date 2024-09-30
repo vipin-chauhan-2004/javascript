@@ -4,6 +4,18 @@ in modern browser we don't even need to write this */
 console.log(3+3)
 console.log("Vipin")
 
-
+//number  => 2 to power 53
+//bigint
+//string
+//boolean
+//null =>standalone value
+//undefined
 //symbol=> to differentiate between unique components
- 
+
+
+
+//object
+// typeof
+console.log(typeof "")          //gives string
+console.log(typeof null)        //gives object
+console.log(typeof undefined)   //gives undefined 
