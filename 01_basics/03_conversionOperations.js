@@ -6,3 +6,4 @@ console.log(convert);
 let num=-1
 let bool=Boolean(num)
 console.log(bool);
+
